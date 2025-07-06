@@ -1,0 +1,1 @@
+Used OpenVino Library to configure NPU to run classification tasks.

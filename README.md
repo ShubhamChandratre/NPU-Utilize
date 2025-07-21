@@ -5,3 +5,8 @@ Run Command
 ```sh
 python classify.py
 ```
+OR
+```sh
+python predict.py
+```
+Check the lables given in imagenet_labels.txt

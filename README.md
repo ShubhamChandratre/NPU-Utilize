@@ -3,6 +3,7 @@ You need to install the packages and configure them properly, do take the help o
 
 Run Command
 ```sh
+cd NPU-Utilize
 python classify.py
 ```
 OR
